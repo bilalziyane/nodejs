@@ -1,0 +1,23 @@
+{
+    "jokes": [
+        {
+            "id": 16,
+            "author": "chucknorris",
+            "joke": "Chuck Norris once sold his soul to the devil in exchange for the power of the roundhouse kick. After signing the contract, chuck quickly roundhouse kicked the devil in the face knocking him unconscious long enough to take his soul back. The devil, who appreciates irony, had a good laugh about it. Now they meet in Indiana every second Tuesday of the month to play poker",
+            "likes": 5
+        },
+        {
+            "id": 17,
+            "author": "chucknorris",
+            "joke": "Chuck Norris went out for a casual bike ride when he was visiting Paris and accidentally won the Tour de France.",
+            "likes": 8
+        },
+        {
+            "id": 18,
+            "author": "chucknorris",
+            "joke": "The only reason Texas Rangers carry a loaded Colt 45 on their hip is because Chuck Norris weighs too much.",
+            "likes": 5
+        }
+    ],
+    "lastId": 19
+}
